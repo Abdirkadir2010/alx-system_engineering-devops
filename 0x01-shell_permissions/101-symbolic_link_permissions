@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincent:staff _hello
+chmod ug+x -h vincent:staff _hello
