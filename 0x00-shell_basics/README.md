@@ -1,4 +1,3 @@
-script that prints the absolute path name of the current working directory
-
-Tasko 0: About whoam I? 
-The absolute path of current working directory
+This my first project about shell commands
+It contains a very basic and important commands
+So open it to get.
